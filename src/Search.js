@@ -19,7 +19,6 @@ class Search extends Component {
                         <select name='filter'>
                             <option value='ebooks'>ebooks</option>
                         </select>
-
                     </div>
                 </form>
             </div>
